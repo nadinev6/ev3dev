@@ -1,31 +1,42 @@
 
 
-### Resource collection for getting started with ev3dev
+## Resource collection for getting started with ev3dev ##
 
-* [ev3dev](#ev3dev)
+
+:white_medium_small_square: [ev3dev](#ev3dev)
   * [Install microSD image](#install-microsd-image)
-* [GEARS](#gears)
+
+:white_medium_small_square: [GEARS](#gears)
   * [Free online simulation software](#free-online-simulation-software)
-* [VS Code](#vs-code)
+
+:white_medium_small_square: [Visual Studio Code](#vs-code)
   * [Download VS Code editor](*download-vs-code-editor)
   
+- - - -
 
+This repistory provides ev3dev resources for all operating systems. It contains links to etcher software for Windows users and command line tools for Linux and macOS users. 
 
-This repistory provides ev3dev resources for all operating systems and command line tools for Linux and macOS users
+It contains the direct download links for the latest version of VS Code, the recommended editor that is compatible with ev3dev and MicroPython.
+
+Alternatively, there is an option to use online editors, such as GearsBot.
+- - - -
 
 ### ev3dev
 
 #### Install microSD image
 
 
+
+
+
 ### Gears
 
-Gears is an online 3D ev3 simulator developed by the company A POSTERIORI
-It uses blockly, Google's block-based coding language, very similar to scratch
-It also has an editor plugin with a python library that translates block code to python language 
+Gears is an online 3D ev3 simulator developed by the company A Posteriori
+It uses blockly, Google's block-based coding language, a visual programming language very similar to scratch
+It also has an editor plugin with a python library that translates block code to python 
 
-Gearsbot allows you to configure a robot, build a fully customisable virtual arena 
-It also automatically imports the associated library to your python file
+Gearsbot allows you to configure a robot, It also automatically imports the associated library to your python file automatically. You can build a fully customisable simulated world. There is a virtual arena with a grid map that can be manipulated to your specifications.
+
 
 #### Free online simulation software
 
@@ -34,16 +45,17 @@ It also automatically imports the associated library to your python file
 (Credits: [A Posteriori](https://www.aposteriori.com.sg/about-us/), Singapore)
 
 
-### VS Code
+
+### Visual Studio Code
 
 #### Download VS Code editor
 
+Operating System  | Download link
+------------- | -------------
+Windows 7,8,10| [vscode for Windows](https://code.visualstudio.com/docs/?dv=win)
+macOS  | [vscode for macOS](https://code.visualstudio.com/docs/?dv=osx)
+Linux  | [vscode for Linux](https://code.visualstudio.com/docs/?dv=linux64_debL)
 
-   * - Windows 
-     - Linux
-     - macOS
-   * - `Windows 7,8,10 <https://code.visualstudio.com/docs/?dv=win>`_
-     - `macOS <https://code.visualstudio.com/docs/?dv=osx>`_
-   * - `Linux <https://code.visualstudio.com/docs/?dv=linux64_debL>`_
+ 
 
 
