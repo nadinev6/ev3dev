@@ -78,3 +78,7 @@ sudo dd if=~/Downloads/ev3dev.1900MB.img of=/dev/rdisk1 bs=4m
 ```console
 ^T
 ```
+
+
+:warning:  This will overwrite any contents on the drive you select,
+   make sure you have selected the correct drive for the SD card.
