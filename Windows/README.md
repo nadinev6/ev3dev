@@ -1,7 +1,7 @@
 # Flash OS Image to microSD Card  
 
 * [Prerequisites](#prerequisites)
-  * [Download SD card image](#download-sd-card-image)
+  * [SD card image](#sd-card-image)
 * [Download balenaEtcher](#download-balenaetcher)
 * [Flash ev3dev2](#flash-ev3dev2)
   * 1 [Copy image link](#copy-image-link)
@@ -13,7 +13,9 @@
 
 ### Prerequisites
 
-#### Download SD card image
+#### SD card image
+
+You can copy and use the direct link to the image to follow the flash instructions below 
 
 The generic version 2.0.0 of ev3dev-scratch image is updated in this repository and [found here](https://github.com/ev3dev/ev3dev/releases/download/ev3dev-stretch-2020-04-10/ev3dev-stretch-ev3-generic-2020-04-10.zip)
 
