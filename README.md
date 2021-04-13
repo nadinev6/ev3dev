@@ -22,9 +22,9 @@ It contains the direct download links for the latest version of VS Code, the rec
 
 Alternatively, there is an option to use online editors, such as GearsBot:
 
-<kbd>
+
  
-Physical EV3
+**Physical EV3**
 
 - [x] VS Code Editor  
 - [x] MicroPython plugin
@@ -32,11 +32,11 @@ Physical EV3
 
 or
 
-Virtual EV3
+**Virtual EV3**
 
    - [x] GearsBot 
 
-</kbd>
+
 
 - - - -
 
@@ -82,7 +82,7 @@ It also has an editor plugin with a python library that translates block code to
 
 
 
-Gearsbot allows you to configure a robot, It also imports the associated library to your python file automatically.
+Gearsbot allows you to configure a robot and imports the associated library to your python file automatically.
 
 You can build a fully customisable simulated world.
 
