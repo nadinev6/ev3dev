@@ -64,3 +64,6 @@ This unzips the zip file from this repository (or replace with path) and writes 
 ```console
 ~ $ sync
 ```
+
+:warning:  This will overwrite any contents on the drive you select,
+   make sure you have selected the correct drive for the SD card.
