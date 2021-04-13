@@ -20,19 +20,24 @@ This repository provides ev3dev resources for all operating systems. It contains
 
 It contains the direct download links for the latest version of VS Code, the recommended editor that is compatible with ev3dev and MicroPython.
 
-Alternatively, there is an option to use online editors, such as GearsBot:
+<br>
 
 
  
-**Physical EV3**
+**Requirement for Physical EV3:**
 
-- [x] VS Code Editor  
+- [x] LEGO EV3 intelligent device
+- [x] microSD card and SD card reader
+- [x] Visual Studio Code Editor 
 - [x] MicroPython plugin
-- [ ] ev3dev browser *(optional)*
+- [ ] ev3dev browser plugin *(optional)*
+
+
+
 
 or
 
-**Virtual EV3**
+**Requirement for Virtual EV3:**
 
    - [x] GearsBot 
 
@@ -48,15 +53,17 @@ Follow these link to the resources in [this repository](https://github.com/nadin
 
 Operating System  | File
 ------------- | -------------
-Windows  | [flash instructions](https://github.com/nadinev6/ev3dev/tree/main/Windows) 
-macOS | [command line tools](https://github.com/nadinev6/ev3dev/tree/main/macOS)
-Linux | [command line tools](https://github.com/nadinev6/ev3dev/tree/main/Linux)
+Windows  | [/Windows](https://github.com/nadinev6/ev3dev/tree/main/Windows) 
+macOS | [/macOS](https://github.com/nadinev6/ev3dev/tree/main/macOS)
+Linux | [/Linux](https://github.com/nadinev6/ev3dev/tree/main/Linux)
 
 <br/>
 
 ### Visual Studio Code
 
 #### Download VS Code editor
+
+<br>
 
 Select the link to directly download VS Code for your operating system version:
 
