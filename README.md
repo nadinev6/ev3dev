@@ -8,8 +8,9 @@
 
 :white_medium_small_square: [Visual Studio Code](#visual-studio-code)
   * [Download VS Code editor](*download-vs-code-editor)
+  * [Install extensions](*install-extensions)
 
-:white_medium_small_square: [GEARS](#gears)
+:white_medium_small_square: [GearsBot](#gearsbot)
   * [Free online simulation software](#free-online-simulation-software)
 
 
@@ -18,7 +19,7 @@
 - - - -
 This repository provides ev3dev resources for all operating systems. It contains links to etcher software for Windows users and command line tools for Linux and macOS users. 
 
-It contains the direct download links for the latest version of VS Code, the recommended editor that is compatible with ev3dev and MicroPython.
+It contains the direct download links for the latest version of VS Code, the recommended editor that is compatible with ev3dev and MicroPython. ev3dev is a prerequisite for EV3 Python programming.
 
 <br>
 
@@ -27,12 +28,11 @@ It contains the direct download links for the latest version of VS Code, the rec
 **Requirement for Physical EV3:**
 
 - [x] LEGO EV3 intelligent device
-- [x] microSD card and SD card reader
+- [x] microSD card & SD card reader
 - [x] Visual Studio Code Editor 
+- [x] Python 3
 - [x] MicroPython plugin
 - [ ] ev3dev browser plugin *(optional)*
-
-
 
 
 or
@@ -40,8 +40,6 @@ or
 **Requirement for Virtual EV3:**
 
    - [x] GearsBot 
-
-
 
 - - - -
 
@@ -79,27 +77,39 @@ Linux  | Debian|  [.deb](https://code.visualstudio.com/docs/?dv=linux64_debL)
 
 <br/>
 
-### Gears
+#### Install extensions
+
+Use the extensions activity menu to install the following:
+
+* Python 3
+* Micropython (any)
+* ev3dev browser
+<br/>
+
+### GearsBot
 
 Gears is an online 3D EV3 simulator developed by the company *A Posteriori*.
 
-![picture alt](https://img.icons8.com/fluent/48/000000/blockly-green.png "Blocks editor") It uses blocks,  a visual programming language.
+![picture alt](https://img.icons8.com/fluent/48/000000/blockly-green.png "Blocks editor") It uses Blocks,  a visual programming language.
 
 It also has an editor plugin with a python library that translates block code to python.
 
+GearsBot allows you to configure a robot and imports the associated library to your python file automatically.
 
+<kbd>
+  <img src="https://github.com/nadinev6/ev3dev/blob/main/GearsBot_robot_configurator.jpg" width = 700> <br>
+ the default preconfigured robot 
+</kbd>
 
-Gearsbot allows you to configure a robot and imports the associated library to your python file automatically.
+<br/>
 
 You can build a fully customisable simulated world.
-
-There is a virtual arena with a grid map that can be manipulated to your specifications.
-
 
 <br/>
 
  <kbd>
-  <img src="https://github.com/nadinev6/ev3dev/blob/main/GearsBot_virtual_world.png">
+  <img src="https://github.com/nadinev6/ev3dev/blob/main/GearsBot_virtual_world.png" width = 700> <br>
+ a virtual arena with a grid map that can be manipulated to your specifications 
 </kbd>
 
 #### Free online simulation software
